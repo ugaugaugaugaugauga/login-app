@@ -17,7 +17,7 @@ import {
 } from '@/components/ui/form'
 import { Input } from '../ui/input'
 import { Button } from '../ui/button'
-import { register } from '@/app/action/register'
+import { register } from '@/action/register'
 import { FormError } from '../form-error'
 import { FormSuccess } from '../form-success'
 import { useState, useTransition } from 'react'
